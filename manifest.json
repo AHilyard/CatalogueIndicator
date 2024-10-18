@@ -1,0 +1,10 @@
+{
+	"Name": "Catalogue Indicator",
+	"Author": "Anthony Hilyard",
+	"Version": "1.0.0",
+	"Description": "Adds small icons to items to indicate if they are available in a catalogue.",
+	"UniqueID": "com.anthonyhilyard.CatalogueIndicator",
+	"EntryDll": "CatalogueIndicator.dll",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": []
+  }
