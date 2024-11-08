@@ -4,7 +4,6 @@
 		{
 			"name": "Run",
 			"type": "coreclr",
-			//"type": "cppvsdbg",
 			"request": "launch",
 			"preLaunchTask": "build",
 			"program": "C:/progra~2/Steam/steamapps/common/starde~1/StardewModdingAPI.exe",
